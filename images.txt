@@ -10,4 +10,5 @@
 #nacos/nacos-server:v2.3.2-slim
 #mysql:8.0.35
 #redis:7.2.5
-openjdk:8u201-alpine3.9
+#openjdk:8u201-alpine3.9
+jenkins/jenkins:latest
