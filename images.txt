@@ -13,4 +13,5 @@ nginx
 #redis:7.2.5
 #openjdk:8u201-alpine3.9
 #jenkins/jenkins:latest
-jenkinszh/jenkins-zh:lts
+jenkinszh/jenkins-zh:2.396
+
