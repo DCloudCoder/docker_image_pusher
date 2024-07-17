@@ -14,4 +14,5 @@ nginx
 #openjdk:8u201-alpine3.9
 #jenkins/jenkins:2.467
 #jenkinszh/jenkins-zh:2.396
-rancher/k3s:v1.28.11-k3s1
+#rancher/k3s:v1.28.11-k3s1
+eipwork/kuboard:v3
