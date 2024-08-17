@@ -15,4 +15,8 @@ nginx
 #jenkins/jenkins:2.467
 #jenkinszh/jenkins-zh:2.396
 #rancher/k3s:v1.28.11-k3s1
-eipwork/kuboard:v3
+#eipwork/kuboard:v3
+prom/prometheus:latest
+grafana/grafana:latest
+oliver006/redis_exporter:latest
+prom/node-exporter:latest
