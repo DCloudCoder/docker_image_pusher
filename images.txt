@@ -21,4 +21,5 @@ nginx
 #oliver006/redis_exporter:latest
 #prom/node-exporter:latest
 #prom/mysqld-exporter:latest
-xuxueli/xxl-job-admin:2.4.1
+#xuxueli/xxl-job-admin:2.4.1
+nginx/nginx-prometheus-exporter:1.2
