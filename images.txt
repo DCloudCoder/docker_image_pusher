@@ -22,4 +22,5 @@ nginx
 #prom/node-exporter:latest
 #prom/mysqld-exporter:latest
 #xuxueli/xxl-job-admin:2.4.1
-nginx/nginx-prometheus-exporter:1.2
+#nginx/nginx-prometheus-exporter:1.2
+docker.elastic.co/beats/filebeat:7.17.9
