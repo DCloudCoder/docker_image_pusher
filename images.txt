@@ -24,4 +24,4 @@ nginx
 #xuxueli/xxl-job-admin:2.4.1
 #nginx/nginx-prometheus-exporter:1.2
 #docker.elastic.co/beats/filebeat:7.17.9
-nacos/nacos-server:2.4.2.1
+nacos/nacos-server:v2.4.2.1
