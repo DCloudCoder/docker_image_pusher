@@ -33,4 +33,6 @@
 #rancher/mirrored-metrics-server:v0.7.0
 #rancher/klipper-lb:v0.4.7
 #rancher/mirrored-flannelcni-flannel:v0.20.2
-provectuslabs/kafka-ui:v0.7.2
+#provectuslabs/kafka-ui:v0.7.2
+nginx:1.28.0
+mysql:8.4.5
