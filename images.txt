@@ -6,6 +6,7 @@
 #mongo:7.0.12-jammy
 #mongo:7.0.12
 #seataio/seata-server:2.0.0-slim
+apache/seata-server:2.5.0
 #apache/kafka:3.7.0
 #nacos/nacos-server:v2.3.2-slim
 #nacos/nacos-server:v2.4.2.1
@@ -38,4 +39,4 @@ nacos/nacos-server:v3.0.2
 #mysql:8.4.5
 #eclipse-temurin:21-jdk
 #onlyoffice/documentserver:latest
-docker.elastic.co/elasticsearch/elasticsearch:8.10.1
+#docker.elastic.co/elasticsearch/elasticsearch:8.10.1
