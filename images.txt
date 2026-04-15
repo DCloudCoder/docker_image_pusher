@@ -40,4 +40,5 @@
 #eclipse-temurin:21-jdk
 #onlyoffice/documentserver:latest
 #docker.elastic.co/elasticsearch/elasticsearch:8.10.1
-alpine/openclaw:2026.2.22
+#alpine/openclaw:2026.2.22
+nacos/nacos-server:v2.4.3
