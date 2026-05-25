@@ -43,4 +43,5 @@
 #alpine/openclaw:2026.2.22
 #nacos/nacos-server:v2.4.3
 #mysql:8.4.8
-postgres:14.21
+#postgres:14.21
+elasticdump/elasticsearch-dump
