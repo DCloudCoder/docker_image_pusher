@@ -44,4 +44,6 @@
 #nacos/nacos-server:v2.4.3
 #mysql:8.4.8
 #postgres:14.21
-elasticdump/elasticsearch-dump
+#elasticdump/elasticsearch-dump
+
+--platform=linux/arm64 redis:7.2.5
