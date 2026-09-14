@@ -48,7 +48,11 @@
 
 #pgvector/pgvector:pg14
 
-eclipse-temurin:17-jre
+#eclipse-temurin:17-jre
+
+apache/skywalking-oap-server:9.7.0
+
+
 #--platform=linux/arm64 redis:7.2.5
 #--platform=linux/arm64 mysql:8.4.5
 #--platform=linux/arm64 nginx:1.28.0
