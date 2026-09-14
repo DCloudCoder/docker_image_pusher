@@ -51,6 +51,7 @@
 #eclipse-temurin:17-jre
 
 apache/skywalking-oap-server:9.7.0
+apache/skywalking-ui:9.7.0
 
 
 #--platform=linux/arm64 redis:7.2.5
