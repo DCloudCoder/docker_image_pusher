@@ -53,7 +53,8 @@
 #apache/skywalking-oap-server:9.7.0
 #apache/skywalking-ui:9.7.0
 
-apache/skywalking-java-agent:9.7.0-java17
+#apache/skywalking-java-agent:9.7.0-java17
+apache/skywalking-java-agent:9.7.0-java8
 
 
 #--platform=linux/arm64 redis:7.2.5
